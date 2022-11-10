@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+   
+   header,
+   footer {
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    border-radius: 2px  2px;
+    box-shadow: 2px;
+    color: white;
+   }
+   
+   h1 {
+    text-align: center;
+    text-shadow: -.5px .5px #ffffff;
+   }
+   h2 {
+    padding: 1%;
+    text-align: left;
+    text-shadow: -.5px .5px #ffffff;
+   }
+   
+   img {
+    display: block;
+    height: 75px;
+    width: 75px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
+   ul {
+    padding-left: 40px;
+    font-size: 20px;
+   }
+   
+   p {
+    text-align: center;
+    font-size: 30px;
+   }
+
+   .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: -6px 8px #2bff00;
+    box-shadow: radius 2px 2px;
+  }
+  
